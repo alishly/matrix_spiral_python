@@ -40,7 +40,7 @@ README.md
 Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/alishly/python-matrix-spiral
+git clone https://github.com/alishly/matrix_spiral_python
 ```
 
 Перейти в папку проекта:

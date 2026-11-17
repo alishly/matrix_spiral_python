@@ -53,6 +53,10 @@ def test_empty_matrix():
     with pytest.raises(MatrixFormatError):
         parse_matrix("")
 
+def test_spiral_traversal_empty_matrix():
+    with pytest.raises(MatrixFormatError):
+        spiral_traversal([])
+
 
 def test_not_square_matrix():
     text = "1 2 3\n4 5 6"

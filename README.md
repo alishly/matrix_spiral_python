@@ -46,7 +46,7 @@ git clone https://github.com/alishly/matrix_spiral_python
 Перейти в папку проекта:
 
 ```bash
-cd python-matrix-spiral
+cd matrix_spiral_python
 ```
 
 Установить зависимости:
